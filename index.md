@@ -6,3 +6,4 @@ This is a list:
 - second thing
 
 - [Jan 11](20230111_classmeeting.html)
+- [Jan 12](20230112_hw.html)

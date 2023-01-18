@@ -12,3 +12,7 @@ Git Commands:
 - push
 
 We added a theme to a repo.
+
+Why we're using this and not the arduino software.
+
+- Git not integrated with arduino.

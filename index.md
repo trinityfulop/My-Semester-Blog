@@ -7,3 +7,4 @@ This is a list:
 
 - [Jan 11](20230111_classmeeting.html)
 - [Jan 12](20230112_hw.html)
+- [Jan 19](20230119_classmeeting.html)

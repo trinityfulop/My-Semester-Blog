@@ -1,5 +1,36 @@
 # Feb. 01 Class Meeting
 
+kobakant.at
+
+clean button > looks like a little broom. use this when you're sure the code is supposed to be working and it's not.
+
+(#include<arduino.h>)
+(#include<wire.h>)
+
+objects have attributes and things they can do.
+properties & methods.
+
+arduino liquid crystal library.
+
+There are two main programs that we work with peripherals (sensors, LCD, etc).
+I2C & SPI
+
+gerber filess > describe everything about the circuitboard
+g-code > machine institutions, mostCNCs understand
+
+## Websites/stores
+
+kicad or easyeda > circuit boards and 3D models
+diptrace, OSHPARK ^
+eagle > fusion360 ^
+
+## When ordering things
+
+Package/case is super important!!
+-When ordering things, the package could be entirely different but the inside looks identical.
+
+*Looking at the data sheet is super important.*
+
 We once again discussed Midterm Project ideas.
 
 I have decided on a project. I'm planning on creating the mirror that spins away from the viewer as they try to look at it.

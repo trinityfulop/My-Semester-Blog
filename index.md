@@ -8,10 +8,11 @@
 - [Jan 25](20230125_classmeeting.html)
 - [Jan 30](20230130_classmeeting.html)
 - [Feb 01](20230201_classmeeting.html)
+- [Feb 06](20230206_classmeeting.html)
+- [Feb 08](20230208_classmeeting.html)
 
 ## Labs
 
 - [Jan 12](20230112_hw.html)
-- 
 
 ## Midterm Project

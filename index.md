@@ -16,3 +16,7 @@
 - [Jan 12](20230112_hw.html)
 
 ## Midterm Project
+
+[Progress Update #1](MidtermProgressUpdate1.html)
+[Progress Update #2](MidtermProgressUpdate2.html)
+[Progress Update #3](MidtermProgressUpdate3.html)

@@ -44,3 +44,7 @@ Too heavy. Lost my mind over how to fix it. It was also too top heavy which was 
 (Insert sketchbook pages of mirror drawings)
 
 I instead used a compact mirror I found and mounted that to the servo by using hot glue.
+
+![Mirror1](images/0DB7D58D-A0A0-418E-9C3B-653D7F2CF094_1_105_c.jpeg)
+![Mirror 2](images/B4B6CC46-5C3A-482A-8E34-816497478DCD_1_105_c.jpeg)
+![Mirror3](images/219C690C-CFE4-4F3A-89D4-268D2D64104F_1_105_c.jpeg)

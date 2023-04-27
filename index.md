@@ -27,5 +27,5 @@
 
 ## Final Project
 
-[Progress Update #1](FinalProgressUpdate.html)
-[Progress Update #2](FinalProgressUpdate2.html)
+- [Progress Update #1](FinalProgressUpdate.html)
+- [Progress Update #2](FinalProgressUpdate2.html)

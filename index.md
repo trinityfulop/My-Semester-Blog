@@ -14,10 +14,8 @@
 - [Mar 20 & 22](20230320_classmeeting.html)
 - [Mar 27 & 29](20230327_classmeeting.html)
 - [Apr 3 & 5](20230403_classmeeting.html)
-
-## Labs
-
-- [Jan 12](20230112_hw.html)
+- [Apr 10 & 12](20230410_classmeeting.html)
+- [Apr 17 & 19](20230417_classmeeting.html)
 
 ## Midterm Project
 
@@ -28,3 +26,6 @@
 - [Progress Update #5](MidtermProgressUpdate5.html)
 
 ## Final Project
+
+[Progress Update #1](FinalProgressUpdate.html)
+[Progress Update #2](FinalProgressUpdate2.html)

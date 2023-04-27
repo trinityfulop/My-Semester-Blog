@@ -37,7 +37,8 @@ motor driver.
 photo interrupter, paper with slots. (rotary encoder maybe?) can be found inside printers and stuff. As it turns the slots flash lighting. how to tell the speed and rotation of motor.
 real time checking of how much it's turning.
 
-holofect sensor. using a magnet.
+hall effect sensor. using a magnet.
+magnetic field.
 
 two motors moving in the opposite direction, needs to be twice as slow as you thought.
 simpler to do one, but not same effect as what I'm going for.
@@ -52,4 +53,4 @@ Need high torque. SLow speed.
 Gearbox - slow powerful motor.
 12V?
 
-Lots of force being exerted.
+Lots of force being exerted on the motors and rag.
